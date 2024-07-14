@@ -1,5 +1,11 @@
 {
+  "homepage": "https://AriyaArKa.github.io/Contact-Web-App",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "prettier": "^3.3.3",
     "prettier-plugin-tailwindcss": "^0.6.5"
   },
