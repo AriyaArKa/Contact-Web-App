@@ -1,8 +1,10 @@
 {
   "homepage": "https://AriyaArKa.github.io/Contact-Web-App",
   "scripts": {
+    "start": "vite",
+    "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1",
