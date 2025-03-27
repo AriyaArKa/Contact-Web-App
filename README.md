@@ -19,7 +19,7 @@ This is a React-based contact management application integrated with Firebase Fi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/contact-management.git
+   git clone https://github.com/AriyaArKa/Contact-Web-App.git
    ```
 2. Navigate to the project directory:
    ```sh
